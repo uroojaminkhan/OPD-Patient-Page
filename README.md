@@ -1,6 +1,4 @@
 # OPD-Patient-Page
-Patient registration page for a hospital outpatient department.
-
 A responsive patient registration page for a hospital outpatient
 department, built while learning front-end development.
 
